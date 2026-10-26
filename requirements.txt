@@ -1,0 +1,8 @@
+streamlit>=1.35
+pandas>=2.0
+openpyxl>=3.1
+pdfplumber>=0.11
+groq>=0.9
+reportlab>=4.0
+pytest>=8.0
+# optional OCR for scanned images: pytesseract, pillow (+ tesseract binary)
